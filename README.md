@@ -2,7 +2,7 @@
 
 <h3>How to run this project</h3>
  <p>To run this project, you must have a Windows machine with an x86_64 architecture.   
-  It may run on other machines, but it is only built with this target platform in mind.<br> 
+  It may run on other machines, but it is only built with this target platform in mind.<br><br>
  Steps to run this project:<br><br>
  &nbsp;&nbsp;&nbsp;&nbsp; 1) Download the executable file.<br>
  &nbsp;&nbsp;&nbsp;&nbsp; 2) Open the file and click the start button to begin playing.<br>  
