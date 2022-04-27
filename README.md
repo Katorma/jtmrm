@@ -1,6 +1,6 @@
 <h1>The Great Escape: Rise of Technology</h1>  
 
-<h2>How to run this project</h2>
+<h3>How to run this project</h3>
   To run this project, you must have a Windows machine with an x86_64 architecture. 
   It may run on other machines, but is only built with this target platform in mind.
     1) Download the executable file.
