@@ -1,9 +1,9 @@
 <h1>The Great Escape: Rise of Technology</h1>  
 
 <h3>How to run this project</h3>
-  To run this project, you must have a Windows machine with an x86_64 architecture.   
+ <p>To run this project, you must have a Windows machine with an x86_64 architecture.   
   It may run on other machines, but is only built with this target platform in mind.  
-    1) Download the executable file.  
+    1) Download the executable file.<br>
     2) Open the file and click the start button to begin playing.  
     3) Press the escape keys to see a description of the controls.   
 
@@ -21,4 +21,4 @@
   To edit various objects in these scenes in the Unity editor:  
     1) Select the scene that you want to alter.  
     2) In the hierarchy, select the game object you will change.  
-    3) In the inspector, you can add components or change visible variables as desired.  
+    3) In the inspector, you can add components or change visible variables as desired. </p>
