@@ -10,7 +10,7 @@
 <h3>The Code Structure</h3>  
   The entirety of this game is written in the C# language.<br>   
   To find the code in the file structure of our project do:<br>
-    **CPM Game** > **Assets** > **Scripts**  
+    **CPM Game**  **Assets**  **Scripts**  
   
   This folder contains 31 scripts that are used to control the logic of the game.   
   
