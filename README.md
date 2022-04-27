@@ -1,20 +1,20 @@
 <h1>The Great Escape: Rise of Technology</h1>  
 
-	<h3>How to run this project</h3>
+<h2>How to run this project</h2>
   To run this project, you must have a Windows machine with an x86_64 architecture. 
   It may run on other machines, but is only built with this target platform in mind.
     1) Download the executable file.
     2) Open the file and click the start button to begin playing.
     3) Press the escape keys to see a description of the controls. 
 
-	<h3>The Code Structure</h3>
+<h3>The Code Structure</h3>
   The entirety of this game is written in the C# language. 
   To find the code in the file structure of our project do:
     CPM Game > Assets > Scripts
   
   This folder contains 31 scripts that are used to control the logic of the game. 
   
-	<h3>Maintenance, Changes, and Additions</h3>
+<h3>Maintenance, Changes, and Additions</h3>
   If you want to work on this project, you must first download the Unity editor.
   This game was made on Unity version 2019.4.9f1.
   The game consists of 3 scenes: MainMenu, test, and Credits. (SampleScene contains our prototype).
