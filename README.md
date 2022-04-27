@@ -3,14 +3,14 @@
 <h3>How to run this project</h3>
  <p>To run this project, you must have a Windows machine with an x86_64 architecture.   
   It may run on other machines, but is only built with this target platform in mind.<br>  
-    1) Download the executable file.<br>
+ &nbsp;&nbsp;&nbsp;&nbsp; 1) Download the executable file.<br>
     2) Open the file and click the start button to begin playing.<br>  
     3) Press the escape keys to see a description of the controls.<br>   
 
 <h3>The Code Structure</h3>  
-  The **entirety** of this game is written in the C# language.<br>   
+  The entirety of this game is written in the C# language.<br>   
   To find the code in the file structure of our project do:<br>
-    **CPM Game** > Assets > Scripts
+    CPM Game > Assets > Scripts
   
   This folder contains 31 scripts that are used to control the logic of the game.   
   
