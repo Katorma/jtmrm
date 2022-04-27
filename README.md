@@ -18,7 +18,7 @@
   If you want to work on this project, you must first download the Unity editor.  
   This game was made on Unity version 2019.4.9f1.  
   The game consists of 3 scenes: MainMenu, test, and Credits. (SampleScene contains our prototype).  
-  To edit various objects in these scenes in the Unity editor:  
+  To edit various objects in these scenes in the Unity editor:<br>  
     1) Select the scene that you want to alter.<br>  
     2) In the hierarchy, select the game object you will change.<br>  
     3) In the inspector, you can add components or change visible variables as desired. </p>
