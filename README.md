@@ -12,7 +12,7 @@
   To find the code in the file structure of our project do:<br>
     __CPM Game__ > **Assets** > **Scripts**
   
-  **This folder contains 31 scripts that are used to control the logic of the game.**   
+  **This folder contains 31** scripts that are used to control the logic of the **game.**   
   
 <h3>Maintenance, Changes, and Additions</h3>  
   If you want to work on this project, you must first download the Unity editor.  
