@@ -6,11 +6,11 @@
  Steps to run this project:<br><br>
  &nbsp;&nbsp;&nbsp;&nbsp; 1) Download the executable file.<br>
  &nbsp;&nbsp;&nbsp;&nbsp; 2) Open the file and click the start button to begin playing.<br>  
- &nbsp;&nbsp;&nbsp;&nbsp; 3) Press the escape keys to see a description of the controls.<br>   
+ &nbsp;&nbsp;&nbsp;&nbsp; 3) Press the escape key to see a description of the controls.<br>   
 
 <h3>The Code Structure</h3>  
   The entirety of this game is written in the C# language.<br>   
-  To find the code in the file structure of our project do:<br><br>
+  To find the code in the file structure of our project go to:<br><br>
    &nbsp;&nbsp;&nbsp;&nbsp; CPM Game > Assets > Scripts <br><br>
   
 This folder contains 31 scripts that are used to control the logic of the game. The scripts are well documented with in-line comments, and the names are pretty self explanatory, so seeing what function each script performs is not difficult.    
