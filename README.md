@@ -8,7 +8,7 @@
     3) Press the escape keys to see a description of the controls.<br>   
 
 <h3>The Code Structure</h3>  
-  The entirety of this game is written in the C# language.<br>   
+  The **entirety** of this game is written in the C# language.<br>   
   To find the code in the file structure of our project do:<br>
     **CPM Game** > Assets > Scripts
   
