@@ -10,10 +10,10 @@
 
 <h3>The Code Structure</h3>  
   The entirety of this game is written in the C# language.<br>   
-  To find the code in the file structure of our project do:<br>
-    CPM Game > Assets > Scripts
+  To find the code in the file structure of our project do:<br><br>
+   &nbsp;&nbsp;&nbsp;&nbsp; CPM Game > Assets > Scripts <br>
   
-  This folder contains 31 scripts that are used to control the logic of the game. The scripts are well documented with in-line comments, and the names are pretty self explanatory, so seeing what function each script performs is not difficult.    
+This folder contains 31 scripts that are used to control the logic of the game. The scripts are well documented with in-line comments, and the names are pretty self explanatory, so seeing what function each script performs is not difficult.    
   
 <h3>Maintenance, Changes, and Additions</h3>  
   If you want to work on this project, you must first download the Unity editor.  
